@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my [![GitHub](https://github.com/ctkano/ctkano.github.io/blob/main/Icons/small/github_small.png)](https://github.com/ctkano) Github profile.
+Welcome to my [:octocat:](https://github.com/ctkano) Github profile.
 
 I work as a Professional Services LatAm, specialized in Software Development Analysis :computer:. 
 
