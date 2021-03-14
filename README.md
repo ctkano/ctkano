@@ -8,7 +8,7 @@ Let's make technology become solutions and help companies and developers communi
 
 
 ### More details
-[ LinkedIn](https://www.linkedin.com/in/kanoct?locale=en_US)
+[:link: LinkedIn](https://www.linkedin.com/in/kanoct?locale=en_US)
 
 <!--
 **ctkano/ctkano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
