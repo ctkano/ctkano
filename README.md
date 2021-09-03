@@ -2,6 +2,8 @@
 
 Welcome to my [:octocat:](https://github.com/ctkano) profile.
 
+Let's make technology become solutions and help companies and developers community to grow up faster, efficient and easier.
+
 ## Me.json
 ```JSON
 {
@@ -34,8 +36,6 @@ Welcome to my [:octocat:](https://github.com/ctkano) profile.
    "Message":"Hello World!!!"
 }
 ```
-
-Let's make technology become solutions and help companies and developers community to grow up faster, efficient and easier.
 
 ## More details
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ctkano/?locale=en_US)
