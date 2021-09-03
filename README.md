@@ -1,26 +1,41 @@
 ### Hi there 👋
 
-Welcome to my [:octocat:](https://github.com/ctkano) Github profile.
+Welcome to my [:octocat:](https://github.com/ctkano) profile.
 
-I work as a Professional Services LatAm, specialized in Software Development Analysis :computer:. 
+## Me.json
+```JSON
+{
+   "Name":"Cleyton Kano",
+   "Location":"https://127.0.0.1/Brazil/SP/São Paulo",
+   "AboutMe":{
+      "Career":[
+         {
+            "Position":"Professional Services - Software Developer Analyst",
+            "Current":true
+         },
+         {
+            "Position":".NET Developer",
+            "Current":false
+         },
+         {
+            "Position":"Collaboration Solutions Pre-Sales",
+            "Current":false
+         },
+         {
+            "Position":"Internship – IT Specialist for Collaboration Solutions",
+            "Current":false
+         },
+         {
+            "Position":"Responsible for the IT area",
+            "Current":false
+         }
+      ]
+   },
+   "Message":"Hello World!!!"
+}
+```
 
 Let's make technology become solutions and help companies and developers community to grow up faster, efficient and easier.
 
-
-### More details
-[:link: LinkedIn](https://www.linkedin.com/in/kanoct?locale=en_US)
-
-<!--
-**ctkano/ctkano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## More details
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ctkano/?locale=en_US)
