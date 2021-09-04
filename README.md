@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 Welcome to my [:octocat:](https://github.com/ctkano) profile.
 
@@ -31,7 +31,17 @@ Let's make technology become solutions and help companies and developers communi
             "Position":"Responsible for the IT area",
             "Current":false
          }
-      ]
+      ],
+      "Technologies":{
+         "Programming":["C#","SQL","Javascript","Typescript","VBScript"],
+         "DevelopmentFramework":[".NET Framework",".NET Core",".NET"],
+         "CloudServices":{
+            "Azure":["Logic Apps","Functions","Data Factory","Machine Learning","Storage"]
+         },
+         "ProjectManagement":["ITIL","COBIT","PMI"],
+         "ArchitectureFramework":["TOGAF"],
+         "API":["oData"]
+      }
    },
    "Message":"Hello World!!!"
 }
