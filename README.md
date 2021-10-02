@@ -32,16 +32,30 @@ Let's make technology become solutions and help companies and developers communi
             "Current":false
          }
       ],
-      "Technologies":{
-         "Programming":["C#","SQL","Javascript","Typescript","VBScript"],
-         "DevelopmentFramework":[".NET Framework",".NET Core",".NET"],
-         "CloudServices":{
-            "Azure":["Logic Apps","Functions","Data Factory","Machine Learning","Storage"]
+      "Education":[
+         {
+            "Field of Study":"Information Security Management",
+            "Degree":"MBA"
          },
-         "ProjectManagement":["ITIL","COBIT","PMI"],
-         "ArchitectureFramework":["TOGAF"],
-         "API":["oData"]
-      }
+         {
+            "Field of Study":"Computer Engineering (emphasis on software)",
+            "Degree":"Bachelor"
+         },
+         {
+            "Field of Study":"Electronic",
+            "Degree":"Technical"
+         }
+      ],
+      "Technologies":{
+          "Programming":["C#","SQL","Javascript","Typescript","VBScript"],
+          "DevelopmentFramework":[".NET Framework",".NET Core",".NET"],
+          "CloudServices":{
+             "Azure":["Logic Apps","Functions","Data Factory","Machine Learning","Storage"]
+          },
+          "ProjectManagement":["ITIL","COBIT","PMI"],
+          "ArchitectureFramework":["TOGAF"],
+          "API":["oData"]
+       }
    },
    "Message":"Hello World!!!"
 }
