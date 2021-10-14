@@ -4,7 +4,7 @@ Welcome to my [:octocat:](https://github.com/ctkano) profile.
 
 Let's make technology become solutions and help companies and developers community to grow up faster, efficient and easier.
 
-## Me.json
+## Me.json ![me --version](https://img.shields.io/github/v/release/ctkano/ctkano "me --version")
 ```JSON
 {
    "Name":"Cleyton Kano",
@@ -62,4 +62,4 @@ Let's make technology become solutions and help companies and developers communi
 ```
 
 ## More details
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ctkano/?locale=en_US)
+[![Linkedin: Cleyton Kano](https://img.shields.io/badge/-Cleyton%20Kano-0a66c2?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ctkano/?locale=en_US)](https://www.linkedin.com/in/ctkano/?locale=en_US "My LinkedIn...")
