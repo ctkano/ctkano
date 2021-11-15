@@ -47,7 +47,7 @@ Let's make technology become solutions and help companies and developers communi
          }
       ],
       "Technologies":{
-          "Programming":["C#","SQL","Javascript","Typescript","VBScript"],
+          "Programming":["C#","SQL","Javascript","Typescript","VBScript","Python"],
           "DevelopmentFramework":[".NET Framework",".NET Core",".NET"],
           "CloudServices":{
              "Azure":["Logic Apps","Functions","Data Factory","Machine Learning","Storage"]
